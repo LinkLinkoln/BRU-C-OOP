@@ -1,0 +1,9 @@
+Car Name        Price      Year       Mileage    Car Type        Movement Type   CarIndex       
+
+
+Мерседес        3000       2004       300        Sedan           Robot           1              
+Трактор Беларусь  3000       2001       300        Сompartment     Transmission    2              
+Бмв             5000       2004       300        Sedan           Robot           3              
+Рено Логан      10000      2001       300        Truck           Transmission    4              
+Nfr             3000       2001       30232      PickupTruck     Automatic       5              
+аолвав          3200       2001       4000       PickupTruck     Automatic       5              

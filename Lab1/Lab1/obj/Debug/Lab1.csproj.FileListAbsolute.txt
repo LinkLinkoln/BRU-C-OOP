@@ -1,0 +1,15 @@
+D:\ЛабыООП\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\ЛабыООП\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\ЛабыООП\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\ЛабыООП\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\ЛабыООП\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+D:\ЛабыООП\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\ЛабыООП\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\ЛабыООП\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\ГЕНАДИЙ\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\ГЕНАДИЙ\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\ГЕНАДИЙ\Desktop\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\ГЕНАДИЙ\Desktop\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\ГЕНАДИЙ\Desktop\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\ГЕНАДИЙ\Desktop\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\ГЕНАДИЙ\Desktop\Lab1\Lab1\obj\Debug\Lab1.pdb
